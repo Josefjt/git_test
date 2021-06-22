@@ -1,1 +1,1 @@
-This is Josef's first git project!
+This is Josef's git project!
